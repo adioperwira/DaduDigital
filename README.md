@@ -1,5 +1,7 @@
 # DaduDigital
 
+![Screenshot 2023-12-03 080817](https://github.com/adioperwira/DaduDigital/assets/147690354/a751027a-70f6-4e26-9259-6219a7dcb641)
+
 Dadu digital Dot Matrix adalah sebuah dadu yang mampu menampilkan mata dadu random dari 1 - 6 (mode 1 dadu) atau dari 1 - 12 (Mode 2 Dadu). Dadu Digital Dot Matrix ini menggunakan LED Dot Matrix MAX 7219 untuk menampilkan mata dadu dan sensor getar SW 420 sebagai sensor yang akan mentrigger pengocokan dadu.
 
 # Fitur
@@ -10,6 +12,8 @@ Dadu Digital Dot Matrix ini memiliki fitur sebagai berikut :
 3. Pengocokan dadu di trigger dengan sensor getar SW 420
 
 # Alat dan Bahan
+
+![20231202_223104](https://github.com/adioperwira/DaduDigital/assets/147690354/1c6aa338-fd78-40b6-a29c-3e655dbe70cf)
 
 Untuk mengerjakan project ini, dibutuhkan alat & bahan sebagai berikut :
 1. Microcontroller ( Arduino Uno )
@@ -23,6 +27,8 @@ Untuk Sketch, menggunakan Library  <LedControl.h> , silahkan download terlebih d
 Silahkan cek : https://github.com/wayoda/LedControl
 
 # Wiring Diagram
+
+![Wiring](https://github.com/adioperwira/DaduDigital/assets/147690354/0a5c7543-6bd6-4805-ba50-fe5cbe49e4d8)
 
 Wiring Diagram dengan ketentuan sebagai berikut :
 
